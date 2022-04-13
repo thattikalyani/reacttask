@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "kalyani",
+    "Email": "tkr@gmail.com",
+    "Address": "Chennai"
+  },
+  {
+    "Id": 2,
+    "Name": "Sowmya",
+    "Email": "sowmya@gmail.com",
+    "Address": "Banglore"
+  },
+  {
+    "Id": 3,
+    "Name": "Deepika",
+    "Email": "deepu@gmail.com",
+    "Address": "Hyderabad"
+  },
+  {
+    "Id": 4,
+    "Name": "T kalyan",
+    "Email": "tk@gmail.com",
+    "Address": "TVP"
+  },
+  {
+    "Id": 5,
+    "Name": "Harshi",
+    "Email": "harshi@gmail.com",
+    "Address": "Delhi"
+  },
+  {
+    "Id": 6,
+    "Name": "Priya",
+    "Email": "priya@gmail.com",
+    "Address": "Kolkatha"
+  },
+  {
+    "Id": 7,
+    "Name": "Lakshmi",
+    "Email": "Lakshmi@gmail.com",
+    "Address": "pune"
+  },
+  {
+    "Id": 8,
+    "Name": "Anitha",
+    "Email": "anitha@gmail.com",
+    "Address": "Haryana"
+  },
+  {
+    "Id": 9,
+    "Name": "siri",
+    "Email": "siri@gmail.com",
+    "Address": "kerala"
+  },
+  {
+    "Id": 10,
+    "Name": "prabha",
+    "Email": "Prabha@gmail.com",
+    "Address": "Jaipur"
+  }
+]
